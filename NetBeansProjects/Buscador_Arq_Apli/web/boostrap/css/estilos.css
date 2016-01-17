@@ -1,0 +1,30 @@
+#contenedor{
+    height: 25em;
+}
+.intro-message{
+    height: 0.1em;
+    margin-top: -9em;
+}
+.intro-header{
+    padding: 1em;
+}
+
+#resultadot{
+    height: 1em;
+}
+
+.section-heading{
+    color: #1b6d85;
+}
+#a{
+    color: #1b6d85;
+}
+.input-group{
+    width: 40em;
+}
+#botones{
+    margin: 2em;
+}
+#exampleInputEmail1{
+    width: 36em;
+}
